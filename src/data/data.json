@@ -1,0 +1,89 @@
+{
+  "quiz": [
+    {
+      "question": "Who is the highest scorer in international cricket?",
+      "answers": [
+        {
+            "answer": "Donald Bradman",
+            "correct": false
+        },
+        {
+            "answer": "Sachin Tendulkar",
+            "correct": true
+        },
+        {
+            "answer": "Vivian Richards",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Who is the only player to have scored 100 international centuries?",
+      "answers": [
+        {
+            "answer": "Steve Waugh",
+            "correct": false
+        },
+        {
+            "answer": "Jacques Kallis",
+            "correct": false
+        },
+        {
+            "answer": "Sachin Tendulkar",
+            "correct": true
+        }
+      ]
+    },
+    {
+      "question": "What is the number of centuries scored by Sachin Tendulkar in Test Cricket?",
+      "answers": [
+        {
+            "answer": "50",
+            "correct": false
+        },
+        {
+            "answer": "51",
+            "correct": true
+        },
+        {
+            "answer": "52",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the number of centuries scored by Sachin Tendulkar in ODI Cricket?",
+      "answers": [
+        {
+            "answer": "50",
+            "correct": false
+        },
+        {
+            "answer": "49",
+            "correct": true
+        },
+        {
+            "answer": "48",
+            "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Which year Sachin Tendulkar was conferred the prestigious Bharat Ratna award?",
+      "answers": [
+        {
+            "answer": "1999",
+            "correct": false
+        },
+        {
+            "answer": "2006",
+            "correct": false
+        },
+        {
+            "answer": "2013",
+            "correct": true
+        }
+      ]
+    }
+  ]
+}

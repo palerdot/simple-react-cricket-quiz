@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: steelblue;
+  height: 50px;
+  padding: 20px;
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.question-holder {
+  border: thin solid #DEDEDE;
+  padding: 11px;
+  margin: 13px 0;
+}
+
+.question {
+  margin: 17px 0;
+  font-size: 15px;
+  text-align: left;
+}
+
+.unanswered {
+  background: #fff3e0;
+}
+
+.wrong-answer {
+  background: red;
+}
